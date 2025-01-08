@@ -23,4 +23,4 @@ This list contains all public commits for each user. There are 4054 total users 
 
 Badges are also available, which you can include on your profile pages. Simply include the following markdown for users:
 
-[![committers.top badge](https://user-badge.committers.top/cameroon/USERNAME.svg)](https://user-badge.committers.top/cameroon/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/cameroon/samglish.svg)](https://user-badge.committers.top/cameroon/samglish)
