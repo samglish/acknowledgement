@@ -11,3 +11,8 @@ Aircrack-ng: is a suite of wireless network monitoring software whose primary us
 * `airodump-ng:` 802.11 packet capture program;
 
 # `Kismet`
+Kismet is a free software network detection, sniffer, and intrusion detection system for 802.11 wireless networks.
+
+`Kismet` works with network cards that support monitor mode, and any 802.11 protocol (802.11a, 802.11b, 802.11g, and 802.11n).
+
+It runs on Linux, FreeBSD, NetBSD, OpenBSD, and Mac OSX.
