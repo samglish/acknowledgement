@@ -19,6 +19,8 @@ It runs on Linux, FreeBSD, NetBSD, OpenBSD, and Mac OSX.
 
 <hr>
 
+* airmong-ng, airodump-ng
+
 user:root
 1. check kill
 ```bash
@@ -48,3 +50,5 @@ phy0	wlan0		iwlwifi		Intel Corporation Wireless 7260 (rev 6b)
 airodump-ng wlan0mon
 ```
 <img src="reco1.png" width="90%">
+
+* Kismet 
