@@ -52,3 +52,6 @@ airodump-ng wlan0mon
 <img src="reco1.png" width="90%">
 
 * Kismet 
+```bash
+kismet
+```
