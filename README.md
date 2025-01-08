@@ -21,6 +21,31 @@ It runs on Linux, FreeBSD, NetBSD, OpenBSD, and Mac OSX.
 
 1. Aircrack-ng
 user:root
+* 
 ```bash
 airmon-ng check kill
+```
+output
+```
+Killing these processes:
+
+    PID Name
+   1158 wpa_supplicant
+```
+launch monitor mode
+* 
+```bash
+airmon-ng start wlan0
+```
+output
+```
+PHY	Interface	Driver		Chipset
+
+phy0	wlan0		iwlwifi		Intel Corporation Wireless 7260 (rev 6b)
+		(mac80211 monitor mode vif enabled for [phy0]wlan0 on [phy0]wlan0mon)
+		(mac80211 station mode vif disabled for [phy0]wlan0)
+```
+* 
+```bash
+airodump-ng wlan0mon
 ```
