@@ -8,4 +8,4 @@ Aircrack-ng: is a suite of wireless network monitoring software whose primary us
 * airdriver-ng:allows to patch drivers, for example for the case of rtl8187, which is useful for doing packet injection;
 * aireplay-ng:packet injection program;
 * airmon-ng:allows you to enable/disable the monitor mode of a wifi card. In this mode the wifi card acts as an "observer" of the network;
-* airodump-ng:
+* airodump-ng: 802.11 packet capture program;
