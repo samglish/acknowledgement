@@ -6,3 +6,4 @@ Aircrack-ng: is a suite of wireless network monitoring software whose primary us
 * aircrack-ng:
 * airdecap-ng:
 * airdriver-ng:
+* aireplay-ng:
