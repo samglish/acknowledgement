@@ -49,3 +49,4 @@ phy0	wlan0		iwlwifi		Intel Corporation Wireless 7260 (rev 6b)
 ```bash
 airodump-ng wlan0mon
 ```
+<img src="reco1.png" width="50%">
