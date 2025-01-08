@@ -20,7 +20,7 @@ It runs on Linux, FreeBSD, NetBSD, OpenBSD, and Mac OSX.
 <hr>
 
 1. Aircrack-ng
-
+user:root
 ```bash
 airmon-ng check kill
 ```
