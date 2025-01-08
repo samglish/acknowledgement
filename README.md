@@ -19,9 +19,8 @@ It runs on Linux, FreeBSD, NetBSD, OpenBSD, and Mac OSX.
 
 <hr>
 
-1. Aircrack-ng
 user:root
-* 
+1. check kill
 ```bash
 airmon-ng check kill
 ```
@@ -32,8 +31,7 @@ Killing these processes:
     PID Name
    1158 wpa_supplicant
 ```
-launch monitor mode
-* 
+2. launch monitor mode
 ```bash
 airmon-ng start wlan0
 ```
@@ -45,8 +43,8 @@ phy0	wlan0		iwlwifi		Intel Corporation Wireless 7260 (rev 6b)
 		(mac80211 monitor mode vif enabled for [phy0]wlan0 on [phy0]wlan0mon)
 		(mac80211 station mode vif disabled for [phy0]wlan0)
 ```
-* 
+3. start capture
 ```bash
 airodump-ng wlan0mon
 ```
-<img src="reco1.png" width="50%">
+<img src="reco1.png" width="90%">
