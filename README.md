@@ -27,7 +27,7 @@ user:root
 airmon-ng check kill
 ```
 output
-```
+```output
 Killing these processes:
 
     PID Name
