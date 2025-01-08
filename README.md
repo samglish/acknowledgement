@@ -3,7 +3,7 @@
 Aircrack-ng: is a suite of wireless network monitoring software whose primary use is to "crack" WEP and WPA keys of WIFI networks.
 
 ### some features
-* aircrack-ng:
+* aircrack-ng:static WEP and WAP-PSK key breaker (new breaker type: PTW);
 * airdecap-ng:
 * airdriver-ng:
 * aireplay-ng:
