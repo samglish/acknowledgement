@@ -16,3 +16,11 @@ Kismet is a free software network detection, sniffer, and intrusion detection sy
 `Kismet` works with network cards that support monitor mode, and any 802.11 protocol (802.11a, 802.11b, 802.11g, and 802.11n).
 
 It runs on Linux, FreeBSD, NetBSD, OpenBSD, and Mac OSX.
+
+<hr>
+
+1. Aircrack-ng
+
+```bash
+airmon-ng check kill
+```
