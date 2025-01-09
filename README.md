@@ -55,6 +55,6 @@ airodump-ng wlan0mon
 ```bash
 kismet
 ```
-<img src="reco2.png" width="90%">
+<img src="reco2.png" width="100%">
 
 KISMET - Point your browser to http://localhost:2501 
